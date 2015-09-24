@@ -1,0 +1,19 @@
+{
+  "name": "javascript-natural-sort",
+  "version": "1.0.0",
+  "description": "[Demo - Run QUnit test suite](http://overset.github.io/javascript-natural-sort/unit-tests.html)",
+  "main": "naturalSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielflorit/javascript-natural-sort.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielflorit/javascript-natural-sort/issues"
+  },
+  "homepage": "https://github.com/gabrielflorit/javascript-natural-sort#readme"
+}
